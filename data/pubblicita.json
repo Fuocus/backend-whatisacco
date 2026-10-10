@@ -1,4 +1,10 @@
 [{
+  "description": "L'esclusione come valore",
+  "url": "{URL_BASE}/static/pubblicita/carducci 15.jpeg",
+  "createdAt": "2026-10-10T16:35:00.000+00:00"
+}
+,
+{
   "description": "La nostalgia, ora anche in menù",
   "url": "{URL_BASE}/static/pubblicita/cibo nostalgia.jpeg",
   "createdAt": "2026-07-23T09:35:28.423+00:00"

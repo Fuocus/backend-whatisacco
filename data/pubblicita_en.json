@@ -1,5 +1,10 @@
 [
   {
+    "description": "Exclusion as a value",
+    "url": "{URL_BASE}/static/pubblicita/carducci 15.jpeg",
+    "createdAt": "2026-10-10T16:35:00.000+00:00"
+  },
+  {
     "description": "Nostalgia, now on the menu too",
     "url": "{URL_BASE}/static/pubblicita/cibo nostalgia.jpeg",
     "createdAt": "2026-07-23T09:35:28.423+00:00"
