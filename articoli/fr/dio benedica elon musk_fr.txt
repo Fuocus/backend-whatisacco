@@ -1,0 +1,18 @@
+id: 13102026
+titolo: Dieu bénisse Elon Musk
+pubblicazione: 2026-10-13
+testo:
+Dieu bénisse Elon Musk. Quand le mainstream pensait encore que la Silicon Valley regorgeait de princes éclairés et géniaux simplement parce qu'ils avaient des programmes diversity and inclusion, Elon Musk était déjà le méchant.
+
+Il ne nous a jamais enrobés de sucre avec sa fondation, n'a jamais fait de déclarations irréprochables, ne s'est jamais dit préoccupé par les problèmes du monde. Il a toujours été ce qu'il est, et ce qu'étaient tous les autres : un milliardaire arrogant et un peu psychopathe.
+
+Son Grok ne pouvait pas être moins. Tandis que toutes les autres IA cachaient le problème, Grok le mettait au centre : qui décide de ce qu'une IA peut dire ? Musk a répondu : ce que moi je pense être juste. Heureusement, ce que Musk pense être juste est tellement faux que ça nous répugne. Une fois la petite indignation passée, on devrait pourtant se dire que les positions « neutres » des autres IA ne le sont peut-être pas tant que ça. Et si elles nous semblent telles, c'est seulement parce qu'elles nous flattent. Bref, vive Elon Musk qui, en se promenant tout nu, nous montre que tous les autres le sont aussi.
+
+P.s. Quiconque travaille avec l'IA sait qu'elle tend à s'adapter au style d'interaction que vous préférez. Aucun problème à lui demander de raisonner comme une personne de droite ou de gauche à partir de maintenant. Le conditionnement de notre pensée se fait à un niveau plus insidieux. Un exemple vu en ligne : crée une image avec dix charpentiers. Et ce sont tous des hommes.
+
+P.p.s. « Qui décide de ce qu'une IA peut dire ? » est une question encore plus complexe, qui se divise en au moins trois :
+1. Qui décide sur quoi entraîner une IA ?
+2. Qui décide comment manipuler les réponses probabilistes d'une IA ?
+3. Qui décide quand censurer une IA ?
+
+De toute façon, les questions techniques ne sont jamais les plus pertinentes. Le cœur du sujet est : si nous confions tous de plus en plus notre raisonnement aux IA, alors qu'il n'en existe que 5 ou 6 en circulation, assistons-nous à la naissance — ou à la consolidation, puisqu'il existe déjà depuis l'époque de la culture de masse — d'un oligopole de ce qu'est la raison ?

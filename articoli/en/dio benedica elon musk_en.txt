@@ -1,0 +1,18 @@
+id: 13102026
+titolo: God Bless Elon Musk
+pubblicazione: 2026-10-13
+testo:
+God bless Elon Musk. Back when the mainstream still thought Silicon Valley was full of enlightened geniuses just because they ran diversity and inclusion programs, Elon Musk was already the bad guy.
+
+He never sugarcoated us with his foundation, never made impeccably correct statements, never claimed to be worried about the world's problems. He has always been exactly what he is — and what everyone else was too: an arrogant, somewhat psychopathic billionaire.
+
+His Grok could be no different. While every other AI hid the problem, Grok put it front and center: who gets to decide what an AI can say? Musk's answer: whatever I think is right. Fortunately, what Musk thinks is right is so wrong it disgusts us. Once the brief outrage fades, though, we should consider that the "neutral" positions of the other AIs are perhaps not so neutral after all. And if they seem that way to us, it's only because they flatter us. So, long live Elon Musk, who, by walking around naked, shows us that everyone else is too.
+
+P.S. Anyone who works with AI knows it tends to adapt to whatever interaction style you prefer. No problem asking it to reason like a right-winger or a left-winger from now on. The conditioning of our thinking happens on a subtler level. An example I saw online: ask it to create an image of ten carpenters. They're all men.
+
+P.P.S. "Who gets to decide what an AI can say?" is an even more complex question, which splits into at least three:
+1. Who decides what to train an AI on?
+2. Who decides how to manipulate an AI's probabilistic answers?
+3. Who decides when to censor an AI?
+
+Either way, the technical questions are never the relevant ones. The heart of the matter is this: if we all increasingly outsource our reasoning to AI, but only 5 or 6 of them exist, are we witnessing the birth — or the consolidation, since it's existed since the dawn of mass culture — of an oligopoly over what counts as reason?
