@@ -1,5 +1,5 @@
 id: 2c
-titolo: Comme une photo de la tour Eiffel
+titolo: Aime-moi comme la tour Eiffel
 pubblicazione: 2026-10-13
 testo:
 Dans mon <a href="https://www.whatisacco.com/articolo.html?id=2b&lang=fr">dernier article</a>, j'évoque le fait que le fantasme érotique suprême consiste à voir son propre fantasme se réaliser en dehors du fantasme lui-même : que notre fantasme se réalise au-delà de nous.
