@@ -10,6 +10,9 @@ His Grok could be no different. While every other AI hid the problem, Grok put i
 
 P.S. Anyone who works with AI knows it tends to adapt to whatever interaction style you prefer. No problem asking it to reason like a right-winger or a left-winger from now on. The conditioning of our thinking happens on a subtler level. An example I saw online: ask it to create an image of ten carpenters. They're all men.
 
+Another example, even subtler. I asked for an image of me at home. Espresso cup, linen shirt, geraniums, terracotta roofs and the sea on the horizon. Nothing offensive, just the postcard.
+<img src="{URL_BASE}/static/articoli/preconcetti-ai-balcone.jpg" alt="AI-generated image: a young man on a balcony with an espresso cup, terracotta roofs and the sea in the background" style="max-width:100%;height:auto;display:block;margin:1em auto;">
+
 P.P.S. "Who gets to decide what an AI can say?" is an even more complex question, which splits into at least three:
 1. Who decides what to train an AI on?
 2. Who decides how to manipulate an AI's probabilistic answers?

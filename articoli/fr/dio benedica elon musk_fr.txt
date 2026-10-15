@@ -10,6 +10,9 @@ Son Grok ne pouvait pas être moins. Tandis que toutes les autres IA cachaient l
 
 P.s. Quiconque travaille avec l'IA sait qu'elle tend à s'adapter au style d'interaction que vous préférez. Aucun problème à lui demander de raisonner comme une personne de droite ou de gauche à partir de maintenant. Le conditionnement de notre pensée se fait à un niveau plus insidieux. Un exemple vu en ligne : crée une image avec dix charpentiers. Et ce sont tous des hommes.
 
+Un autre exemple, encore plus subtil. J'ai demandé une image de moi chez moi. Tasse d'espresso, chemise en lin, géraniums, toits en terre cuite et la mer à l'horizon. Rien d'offensant, juste la carte postale.
+<img src="{URL_BASE}/static/articoli/preconcetti-ai-balcone.jpg" alt="Image générée par l'IA : un jeune homme sur un balcon avec une tasse d'espresso, des toits en terre cuite et la mer en arrière-plan" style="max-width:100%;height:auto;display:block;margin:1em auto;">
+
 P.p.s. « Qui décide de ce qu'une IA peut dire ? » est une question encore plus complexe, qui se divise en au moins trois :
 1. Qui décide sur quoi entraîner une IA ?
 2. Qui décide comment manipuler les réponses probabilistes d'une IA ?

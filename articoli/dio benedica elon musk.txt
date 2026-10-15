@@ -10,6 +10,9 @@ Il suo Grok non poteva essere da meno. Mentre tutte le altre AI nascondevano il 
 
 P.s. Chi lavora con l'AI sa che tendenzialmente l'AI si adatta allo stile di interazione che preferisci. Nessun problema a chiederle di ragionare come una persona di destra o di sinistra da ora in avanti. Il condizionamento del nostro pensiero avviene a un livello più subdolo. Un esempio che ho visto online riguarda cose come: crea un'immagine con dieci carpentieri. E sono tutti uomini.
 
+Un altro esempio, ancora più sottile. Ho chiesto un'immagine di me a casa mia. Tazzina di espresso, camicia di lino, gerani, tetti in cotto e mare all'orizzonte. Niente di offensivo, solo la cartolina.
+<img src="{URL_BASE}/static/articoli/preconcetti-ai-balcone.jpg" alt="Immagine generata con l'AI: un ragazzo su un balcone con tazzina di espresso, tetti in cotto e mare sullo sfondo" style="max-width:100%;height:auto;display:block;margin:1em auto;">
+
 P.p.s. «Chi governa cosa un'AI può dire?» è un quesito ancora più complesso, che si divide in almeno tre:
 1. Chi decide su cosa trainare un'AI?
 2. Chi decide come manipolare le risposte probabilistiche di un'AI?
