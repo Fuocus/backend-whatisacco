@@ -9,7 +9,7 @@ from pathlib import Path
 load_dotenv()  # carica da .env se esiste
 
 # Temporaneo: hardcoded finché non sistemiamo la variabile d'ambiente su Railway
-URL_BASE = "https://backend-sito-production-5d93.up.railway.app"
+URL_BASE = "https://backend-whatisacco-production.up.railway.app"
 
 app = FastAPI()
 
